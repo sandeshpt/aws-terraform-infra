@@ -1,0 +1,3 @@
+ami_id           = "ami-xxxxxxxxxxxxxxxxx"
+allowed_ssh_cidr = "YOUR_PUBLIC_IP/32"
+bucket_name      = "my-devops-demo-bucket-unique-name"
